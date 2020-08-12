@@ -1,7 +1,7 @@
 # Bem vindo ao meu repositório! :computer:
 
 ![GitHub followers](https://img.shields.io/github/followers/jpgSouza?label=Follow&style=social)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=jpgSouza.jpgSouza)
+![](https://visitor-badge.glitch.me/badge?page_id=jpgSouza.jpgSouza)
 
 <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/images/header.png">
 
