@@ -1,13 +1,14 @@
 # Bem vindo ao meu repositório! :computer:
 
 ![GitHub followers](https://img.shields.io/github/followers/jpgSouza?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=jpgSouza.jpgSouza)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=jpgSouza.jpgSouza)
 
 <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/images/header.png">
 
 <p align='center'>
 <a href="https://instagram.com/jpg_souza"><img height="30" src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/social/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jpgsouza/"><img height="30" src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/social/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/jpgsouza/"><img height="30" src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/social/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://app.rocketseat.com.br/me/jpgsouza"><img height="30" src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/social/rocketseat.jpeg"></a>  
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
