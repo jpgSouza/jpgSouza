@@ -1,43 +1,39 @@
-# Bem vindo ao meu repositório! :computer:
+# Hi there! :computer:
 
 ![GitHub followers](https://img.shields.io/github/followers/jpgSouza?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=jpgSouza.jpgSouza)
 
-<img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/images/header.png">
+<h4 align="center"> 
+	:computer: Gratuated at Computer Enginer and working as Flutter developer in the C&C app. :computer:
+</h4>
 
-<p align='center'>
-<a href="https://instagram.com/jpg_souza"><img height="30" src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/social/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jpgsouza/"><img height="30" src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/social/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://app.rocketseat.com.br/me/jpgsouza"><img height="30" src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/social/rocketseat.jpeg"></a>  
-</p>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgSouza&hide=html&layout=compact=true&theme=tokyonight&hide_border=true">
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+```dart
+class AboutMe {
+  final String name = "João Pedro Giacometti de Souza";
+  final int age = 24;
+  final String work = "Flutter Develop";
+  final String company = "Toodoo ♾️ ";
+}
 
-Sou um entusiasta na área de desenvolvimento mobile e suas tecnologias. Me dedico exclusivamente em ferramentas e plataformas como Java, Android e Flutter.
-
-Atualmente cursando o 9º de Engenharia da Computação no Inatel, atuo como monitor da disciplina de Programação Orientada a Objetos com Java. Possuo também experiência na área de pesquisa com o programa de Iniciação Científica voltado para a área de Engenharia da Computação. Além disso, sou voluntário nas atividades do Facebook Developer Circles, grupo apoiado pela empresa Facebook, e participei da organização do HackTown - SRS.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Linguagens e Ferramentas ⚡
-<p>
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/java.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/mobile.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/android_studio.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/eclipse.svg" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/flutter.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/dart_colour.svg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/jpgSouza/jpgSouza/blob/master/assets/icons/stack/bash.svg" alt="angular" style="vertical-align:top; margin:4px">
-</p>
-
-## O que estou aprendendo? :bulb:
-- Flutter 
-- JavaEE (JPA / Hibernate)
-- Web services com Spring boot
-- API Restful
-- MongoDB
-- JavaScript
-- HTML5
-- CSS
-
-![Joao Pedro github stats](https://github-readme-stats.vercel.app/api?username=jpgSouza&show_icons=true&hide_border=true)
+class Skills {
+  final String framework = "Flutter";
+  final List<String> languages = [
+    "Dart",
+    "Java",
+    "Swift"
+  ];
+  final List<String> tools = [
+    "Vscode",
+    "Xcode",
+    "Azure",
+    "Postman",
+    "Git"
+  ];
+}
+```
+#### 🌱 Things I am currently working on: 
+- Working on C&C mobile app. 
+- Taking online english classes. 
+- Working and developing some Flutter apps. 
