@@ -1,14 +1,14 @@
 # Hi there! :computer:
 
 ![GitHub followers](https://img.shields.io/github/followers/jpgSouza?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=jpgSouza.jpgSouza)
+![](https://komarev.com/ghpvc/?username=jpgSouza&color=006bed)
 
 <h4 align="center"> 
 	:computer: Gratuated at Computer Enginer and working as Flutter developer in the C&C app. :computer:
 </h4>
 
 <p align="center">
-  <a href="joao.souza@toodoo.com.br" alt="Outlook">
+  <a href="mailto:joao.souza@toodoo.com.br" alt="Outlook">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=joao.souza@toodoo.com.br"/></a>
 
   <a href="https://www.linkedin.com/in/jpgsouza/" alt="Linkedin">
