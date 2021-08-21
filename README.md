@@ -20,8 +20,6 @@
 
 ******
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgSouza&hide=html&layout=compact=true&theme=tokyonight&hide_border=true"/></a>
-
 ```dart
 class AboutMe {
   final String name = "João Pedro Giacometti de Souza";
